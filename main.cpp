@@ -7,8 +7,8 @@ using namespace std;
 
 
 /*
- *This program reads strings from a text file, and utilizes the heap sorting 
- *Alphabetize the input
+ *This program reads strings from a text file, and utilizes the heap sorting method to
+ *alphabetize the input
  *
  *Data Structures @ TCC
  *
